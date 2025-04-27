@@ -1,0 +1,23 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass source/dist/main.scss build/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohenriquepacheco/SASS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrohenriquepacheco/SASS/issues"
+  },
+  "homepage": "https://github.com/pedrohenriquepacheco/SASS#readme",
+  "devDependencies": {
+    "sass": "^1.87.0"
+  }
+}
